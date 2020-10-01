@@ -9,7 +9,7 @@
    },
    "optimizer":{
       "enabled":true,
-      "runs":10001
+      "runs":10000
    },
    "remappings":[],
    "outputSelection": {
